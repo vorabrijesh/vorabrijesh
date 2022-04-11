@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Welcome to my github profile. I am Brijesh vora. Currently, I am pursuing MS in CS from University of California, Davis. I have earned B.Tech from Indian Institute of Technology, Tirupati in computer science.
+
+My research interests are Systems, Security and Machine Learning. Specifically I am 
+
+
+- 🔭 I’m currently working on working on Multi Party Computation(MPC) and Privacy Preserving Machine Learning(PPML).
+- 🌱 I’m currently learning Machine Learning, Cryptography. 
+- 👯 I’m looking to collaborate on Systems/Networking or Machine Learning. 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Movies/TV Shows. 
+- 📫 How to reach me: brijesh.vora12@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 <!--
 **vorabrijesh/vorabrijesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
