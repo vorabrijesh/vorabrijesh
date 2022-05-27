@@ -3,9 +3,9 @@
 Welcome to my github profile. I am Brijesh vora. Currently, I am pursuing MS in CS from University of California, Davis. I have earned B.Tech from Indian Institute of Technology (IIT), Tirupati in Computer Science.
 
 
-- 🔭 I’m currently working on working on Multi Party Computation(MPC) and Privacy Preserving Machine Learning(PPML).
-- 🌱 I’m currently learning Machine Learning, Cryptography, Algorithms.
-- 👯 I’m looking to collaborate on Systems/Networking or Machine Learning. 
+- 🔭 I’m currently working on Vehicle Health Monitoring System, Multi Party Computation(MPC) and Privacy Preserving Machine Learning(PPML).
+- 🌱 I’m currently learning Machine Learning, Security, Algorithms.
+- 👯 I’m looking to collaborate on Systems/Security or Machine Learning. 
 - 💬 Ask me about Movies/TV Shows, Tech, Cricket, Chess.
 - 📫 How to reach me: brijesh.vora12@gmail.com
 - 😄 Pronouns: He/Him
