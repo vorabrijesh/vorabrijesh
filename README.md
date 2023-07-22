@@ -3,10 +3,10 @@
 Welcome to my github profile. I am Brijesh vora. Currently, I am pursuing MS in CS from University of California, Davis. I have earned B.Tech from Indian Institute of Technology (IIT), Tirupati in Computer Science.
 
 
-- 🔭 I’m currently working on Network Security(zeek), Vehicle Health Monitoring System, Multi Party Computation(MPC) and Privacy Preserving Machine Learning(PPML).
-- 🌱 I’m currently learning Machine Learning, Security, Algorithms.
-- 👯 I’m looking to collaborate on Systems/Security or Machine Learning. 
-- 💬 Ask me about Movies/TV Shows, Tech, Cricket, Chess.
+- 🔭 I’m currently working on building an ML platform and Saas products at Sailpoint Technologies. 
+- 🌱 I’m currently learning  Amazon Sagemaker, Machine Learning, Security, and Algorithms.
+- 👯 I’m looking to collaborate on Systems/Security or Machine Learning. Even better if you are deployingML models at scale.
+- 💬 Ask me about Movies/TV Shows, Tech, Cricket, and Chess.
 - 📫 How to reach me: brijesh.vora12@gmail.com
 - 😄 Pronouns: He/Him
 
