@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github profile. I am Brijesh vora. Currently, I am pursuing MS in CS from University of California, Davis. I have earned B.Tech from Indian Institute of Technology (IIT), Tirupati in Computer Science.
-
+Welcome to my github profile. I am Brijesh vora.
 
 - 🔭 I’m currently working on building an ML platform and Saas products at Sailpoint Technologies. 
 - 🌱 I’m currently learning  Amazon Sagemaker, Machine Learning, Security, and Algorithms.
